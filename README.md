@@ -9,7 +9,8 @@ Project 6
 ```
 cd \Projects
 git clone https://github.com/dennykami1/datafun-06-eda
-cd datafun-04-eda-
+cd datafun-06-eda
+code .
 ```
 
 **Created a .gitignore file, and pasted in contents from example**
