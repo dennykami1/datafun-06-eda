@@ -1,0 +1,41 @@
+# ======================================================
+# ESSENTIAL TOOLS
+# ======================================================
+
+# Up-to-date package management tools
+pip
+setuptools
+wheel
+
+# Easy logging for monitoring code execution
+loguru
+
+# Making web requests
+requests
+
+# ======================================================
+# ESSENTIAL TOOLS
+# ======================================================
+# Easy access to modern Excel files (*.xlsx)
+openpyxl
+
+# ======================================================
+# DATA PROCESSING & ANALYSIS
+# ======================================================
+
+# Fundamental data manipulation and analysis tools
+numpy
+pandas
+
+# Data visualization libraries
+matplotlib  # the foundation
+seaborn     # built on top of matplotlib
+
+# general-purpose interactivity library
+ipywidgets
+
+# Interactive development environment for notebooks, code, and data
+jupyterlab
+
+# Columnar storage format for data frames
+pyarrow

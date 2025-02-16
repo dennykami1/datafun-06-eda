@@ -26,12 +26,15 @@ __pycache__/
 
 # macOS system files
 .DS_Store
+
+# Jupyter Notebook checkpoints
+ .ipynb_checkpoints/
 ```
 
 **Commited Changes to Github**
 ```
 git add .
-git commit -m "Add .gitignore"
+git commit -m "Add message"
 git push -u origin main
 ```
 
