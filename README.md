@@ -1,7 +1,13 @@
 # **datafun-06-eda**
 
 # **Description:**
-Project 6
+Project 6 - EDA of U.S. Renewable Energy Consumption
+
+# **Dataset Description:**
+
+The U.S. Renewable Energy Consumption csv contains monthly data on renewable energy consumption in the United States, spanning from January 1973 to December 2024. The data is categorized by energy source (such as solar, wind, hydroelectric, and biomass) and consumption sector (residential, commercial, industrial, and transportation). The source of this data is the U.S. Energy Information Administration (EIA).
+
+---
 
 # **How to run the project yourself:**
 
@@ -49,3 +55,4 @@ py -m venv .venv
 py -m pip install --upgrade pip setuptools wheel
 py -m pip install -r requirements.txt
 ```
+---
